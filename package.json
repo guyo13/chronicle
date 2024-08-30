@@ -1,0 +1,24 @@
+{
+  "name": "@guy13/chronicle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyo13/chronicle.git"
+  },
+  "author": "Guy Or",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/guyo13/chronicle/issues"
+  },
+  "homepage": "https://github.com/guyo13/chronicle#readme",
+  "description": "",
+  "packageManager": "pnpm@10.10.0+sha512.d615db246fe70f25dcfea6d8d73dee782ce23e2245e3c4f6f888249fb568149318637dca73c2c5c8ef2a4ca0d5657fb9567188bfab47f566d1ee6ce987815c39",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prettier-plugin-svelte": "^3.3.3"
+  }
+}
