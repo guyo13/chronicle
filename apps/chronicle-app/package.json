@@ -13,16 +13,25 @@
   },
   "license": "BSD-3-Clause",
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "@tauri-apps/api": "catalog:tauri",
-    "@tauri-apps/plugin-opener": "catalog:tauri"
+    "@tauri-apps/plugin-opener": "catalog:tauri",
+    "flowbite": "^3.1.2",
+    "flowbite-svelte": "^1.0.6",
+    "tailwind-merge": "^3.2.0",
+    "@guyo13/chronicle-components": "workspace:*"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "catalog:svelte",
     "@sveltejs/kit": "catalog:svelte",
     "@sveltejs/vite-plugin-svelte": "catalog:svelte",
+    "@tailwindcss/vite": "^4.1.5",
     "@tauri-apps/cli": "catalog:tauri",
+    "@types": "link:@types",
+    "node": "^24.0.0",
     "svelte": "catalog:svelte",
     "svelte-check": "catalog:svelte",
+    "tailwindcss": "catalog:tailwind",
     "typescript": "catalog:typescript",
     "vite": "catalog:vite"
   }
